@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:92a8d1,100:6b5b95&height=300&section=header&text=welcome&desc=JeongWoo's%20Git%20Profile&fontSize=90&descSize=30&descAlign=57&descAlignY=63&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:92a8d1,100:6b5b95&height=300&section=header&text=welcome&desc=JeongWoo's%20Git%20Profile&fontSize=90&descSize=30&descAlign=57&descAlignY=67&fontColor=ffffff)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fblackeichi&count_bg=%236E7DFF&title_bg=%232356FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
