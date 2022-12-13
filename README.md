@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Github%20Pages-000000?style=for-the-badge&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white">
   <img src="https://img.shields.io/badge/styled_component-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-  <img src="https://img.shields.io/badge/tilwindCSS-06B6D4?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white">
+  <img src="https://img.shields.io/badge/tailwindCSS-06B6D4?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white">
   <img src="https://img.shields.io/badge/Recoil-black?style=for-the-badge&logo=Recoil&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
   <img src="https://img.shields.io/badge/PlanetScale-000000?style=for-the-badge&logo=PlanetScale&logoColor=white">
@@ -37,7 +37,6 @@
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-  
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
